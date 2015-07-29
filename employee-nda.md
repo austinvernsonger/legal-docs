@@ -135,7 +135,7 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
 18. RECITALS.  The Recitals in this Agreement are incorporated into the body of this Agreement. To the extent the Recitals are inconsistent with the terms of this Agreement, the terms of this Agreement shall control.
 
-19. GOVERNING LAW AND VENUE.  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City Juristiction or Choice], [The State Juristiction of Choice].
+19. GOVERNING LAW AND VENUE.  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City jurisdiction or Choice], [The State jurisdiction of Choice].
 
 20. INTERPRETATION
 
